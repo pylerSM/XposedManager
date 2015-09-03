@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Xposed Manager</string>
+    <string name="title_activity_xposed_manager">XposedManagerActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
