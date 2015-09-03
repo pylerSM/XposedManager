@@ -1,0 +1,11 @@
+{
+  "xposed_installer_old": "http://dl-xda.xposed.info/modules/de.robv.android.xposed.installer_v33_36570c.apk",
+  "xposed_installer_new": "https://forum.xda-developers.com/attachment.php?attachmentid=3383776&d=1435601440",
+  "xposed_framework": "https://github.com/rovo89/XposedInstaller/blob/master/assets/Xposed-Installer-Recovery.zip?raw=true",
+  "xposed_framework_lp_arm": "https://forum.xda-developers.com/attachment.php?attachmentid=3460604&d=1441225235",
+  "xposed_framework_lp_arm64": "https://forum.xda-developers.com/attachment.php?attachmentid=3460605&d=1441225235",
+  "xposed_framework_lp_x86": "https://forum.xda-developers.com/attachment.php?attachmentid=3460606&d=1441225235",
+  "xposed_framework_lp_mr1_arm": "https://forum.xda-developers.com/attachment.php?attachmentid=3460608&d=1441225235",
+  "xposed_framework_lp_mr1_arm64": "https://forum.xda-developers.com/attachment.php?attachmentid=3460609&d=1441225235",
+  "xposed_framework_lp_mr1_x86": "https://forum.xda-developers.com/attachment.php?attachmentid=3460610&d=1441225235"
+}
